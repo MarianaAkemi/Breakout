@@ -1,6 +1,6 @@
 # Breakout - Visão Geral
 <div align = center>
-Disponível para gameplay <a href="https://akemi-vek.itch.io/amigos-aquaticos">aqui</a> !<br><br>
+Disponível para gameplay <a href="https://akemi-vek.itch.io/breakout">aqui</a> !<br><br>
 Este foi um projeto para um Checkpoint da FIAP, com intuito de refazer o jogo Breakout.
 
 
